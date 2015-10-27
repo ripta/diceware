@@ -1,0 +1,11 @@
+
+
+    Conveniently generate passphrases from pre-built wordlists in accordance to
+    this page:
+
+      http://world.std.com/~reinhold/diceware.html
+
+    This program relies on your computer's PNRG, though it uses a crytographically
+    secure implementation:
+
+      https://godoc.org/crypto/rand
